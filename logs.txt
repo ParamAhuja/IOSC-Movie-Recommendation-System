@@ -1,0 +1,21 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.12:8501
+  External URL: http://104.196.204.212:8501
+
+/content/app.py:17: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  movies = pd.read_csv('/content/gdrive/MyDrive/input/the-movies-dataset/movies_metadata.csv')
+/content/app.py:17: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  movies = pd.read_csv('/content/gdrive/MyDrive/input/the-movies-dataset/movies_metadata.csv')
+/content/app.py:17: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  movies = pd.read_csv('/content/gdrive/MyDrive/input/the-movies-dataset/movies_metadata.csv')
+/content/app.py:17: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  movies = pd.read_csv('/content/gdrive/MyDrive/input/the-movies-dataset/movies_metadata.csv')
+/content/app.py:17: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  movies = pd.read_csv('/content/gdrive/MyDrive/input/the-movies-dataset/movies_metadata.csv')
+/content/app.py:17: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  movies = pd.read_csv('/content/gdrive/MyDrive/input/the-movies-dataset/movies_metadata.csv')
