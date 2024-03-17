@@ -1,0 +1,21 @@
+**Source -**
+https://drive.google.com/drive/folders/1QbUZH105H4Rq7Uu5L0cbkTqLp4tbJj17?usp=sharing
+
+
+Step1: Mount Google drive to the Google collab notebook.
+>Press on the drive button in the files tab on the left side of the screen or run the first block of code.
+>Authorize Drive.
+
+
+Step2: Add Datasets folder "input" to drive.
+>The source leads to a folder named input, containing the two dataset folders.
+>Click on the three dots on top right corner.
+>Select Organize.
+>Add Shortcut.
+>Select Collab Notebook folder.
+>Press Add.
+
+
+There are two datasets inside the input folder:
+tmdb-movie-metadata: Metadata on ~5,000 movies from TMDb (43.6MB)
+the-movies-dataset: Metadata on over 45,000 movies. 26 million ratings from over 270,000 users.(900MB)
